@@ -5,6 +5,8 @@
 
 [![An image of @varnikasood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varnikasood)](https://holopin.io/@varnikasood)
 
+<!-- about --> 
+
 - 🔭 I’m currently working on my **DSA in Java**
 
 - 👯 I’m looking to collaborate on **open-source projects**
