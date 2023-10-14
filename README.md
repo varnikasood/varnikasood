@@ -3,7 +3,7 @@
 
 <!-- holopin -->  
 
-[![An image of @varnikasood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varnikasood)](https://holopin.io/@varnikasood)
+<!--   [![An image of @varnikasood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varnikasood)](https://holopin.io/@varnikasood)  -->
 
 <!-- about --> 
 
