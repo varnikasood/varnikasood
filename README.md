@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varnika Sood</h1>
-<h3 align="center">Web Dev Enthusiast</h3>
+<h3 align="center">AI ML Enthusiast</h3>
 
 <!-- holopin -->  
 
@@ -7,11 +7,11 @@
 
 <!-- about --> 
 
-- 🔭 I’m currently working on my **DSA in Java**
+- 🔭 I’m currently working on my **DSA in C++**
 
 - 👯 I’m looking to collaborate on **open-source projects**
   
-- 🌱 I’m currently learning **React, Angular frameworks**
+- 🌱 I’m currently learning **MongoDB, Hadoop**
 
 - 📝 Pursuing BTech in CSE at **Amrita Vishwa Vidyapeetham**
 
