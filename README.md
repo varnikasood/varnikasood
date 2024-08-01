@@ -39,7 +39,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px 15px 10px 0;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="30" width="40" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px 15px 10px 0;" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="30" width="40" /></a>  
 </div>
-
+<br>
 <div>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px 15px 10px 0;" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="30" width="40" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px 15px 10px 0;" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="30" width="40" /></a>  
